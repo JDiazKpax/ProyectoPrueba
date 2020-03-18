@@ -2,4 +2,4 @@ Hola mundo, este es mi primer proyecto
 
 gestionado en GitHub.
 
-Jorge Diaz. =!
+Jorge Andres Diaz. =!
