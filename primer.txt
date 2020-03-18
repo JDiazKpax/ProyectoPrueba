@@ -5,10 +5,5 @@ gestionado en GitHub.
 Jorge Andres Diaz. =!
 
 Hoy es 18 de Marzo de 2020, son las 17:30
-<<<<<<< HEAD
-Este es el parrafo de la rama MASTER.
-=======
 
-
-	Este parrafo es de ramaTEST.
->>>>>>> ramaTEST
+Master soy yo.
