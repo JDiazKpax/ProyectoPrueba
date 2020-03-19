@@ -2,7 +2,7 @@ Hola mundo, este es mi primer proyecto
 
 gestionado en GitHub.
 
-Jorge Andres Diaz. =!
+Jorge Andres Diaz Celis
 
 Tengo 33 años
 
