@@ -2,7 +2,7 @@ Hola mundo, este es mi primer proyecto
 
 gestionado en GitHub.
 
-Jorge Andres Diaz. =!
+Jorge Andres Diaz Celis
 
 Hoy es 18 de Marzo de 2020, son las 17:30
 
